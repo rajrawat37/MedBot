@@ -13,7 +13,6 @@ MedBot is a Flutter-based mobile app that acts as an intelligent medical assista
 - 🔐 Firebase Authentication (email/password)
 - ☁️ Firebase Firestore for chat logs
 - 📱 Fully responsive for both Android & iOS
-- 🔥 Clean Flutter architecture with future scalability in mind
 
 ---
 
